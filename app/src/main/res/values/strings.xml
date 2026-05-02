@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">projetws</string>
+    <!-- Liste des villes affichées dans le Spinner -->
+    <string-array name="villes">
+        <item>Marrakech</item>
+        <item>Casablanca</item>
+        <item>Rabat</item>
+        <item>Fès</item>
+        <item>Tanger</item>
+    </string-array>
+</resources>
